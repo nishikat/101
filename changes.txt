@@ -1,0 +1,1 @@
+We changed the code in the ArrayPQ class to a heap and added an import for logging in order to debug. No other changes were added.
