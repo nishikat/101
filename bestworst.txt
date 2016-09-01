@@ -1,0 +1,20 @@
+For a given size n
+
+	-Insertion Sort's
+		a. Best case input: If all elements are less than or equal to every element to 
+		   its right, the the running time of insertion sort is theta(n). This would mean
+		   that the array is already sorted which means the "bast case" for this sorting
+		   algorithm.
+		b. Worst case input: If all elements are larger than every element to its right,
+		   then the running time of insertion sort is theta(n^2). This means that array is
+		   in a complete opposite order form greatest to least making this the worst case 
+		   insertion sort.
+		   
+	-Merge Sort's
+		a. Best case input: The best case for Merge Sort is the same as insertion sort, 
+		   which is that it's best case is that the array is already sorted. This would
+		   mean that Merge sort would only pass through the data once. 
+		b. Worst case input: The worst case situation is also similar to Insertion Sort's 
+		   since having the an array in opposite would result in the the loops in the 
+		   program to run multiple times. Merge sort's best and worst case performance 
+		   can be measured through the same equation; O(nlogn)

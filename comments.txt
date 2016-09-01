@@ -1,0 +1,25 @@
+Insertion Sort
+	I made all my graphs go up to when the array size was 1000 because it was too much for
+	for my computer to go up to 10000. The times that my computer did go to 10000, i was 
+	able to see a quick glimpse of the kind of function graph it looked like but my 
+	computer would end up frozen.Looking at the three graphs if insertion sort (best,worst,
+	and average case) I see that the best case is definitely a lot faster since 
+	the time is still at the 10^-3 on the graph versus worst case which has the y-axis 
+	going to 0.6. Comparing this to the average graphs, the y-axis reached to .25 at most 
+	for a array of a size of 1000.
+	
+	The best case graph looks more like a linear function of n, while the worst case looks 
+	more similar to a quadratic function of n (n^2). Although the average cas time was 
+	around half the worse case running time, it looked more like a quadratic function. 
+	
+Merge Sort
+	In terms of graphs for Merge Sort, it seems that between the best case and worst and
+	average case there isn't a big of a difference like with insertion sort. For example 
+	the best case y-axis goes up to 0.018 while both the worst case and average case's y-axis
+	goes up to 0.030. The running time of merging is linear to it's array. The worse, best,
+	and average case running times all look similar to linear although it is a logarithmic
+	 function. This is because of the large size of n.
+	
+	For both my insertion sort and merge sort graphs I noticed that the trend line was 
+	easy to spot but it was a smooth line. I dont know what could have caused the 
+	sporadic results in some cases. 
